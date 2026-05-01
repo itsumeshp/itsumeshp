@@ -1,308 +1,232 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                                HEADER                                    -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    UMESH PRAJAPATI — README                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umesh%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SaaS%20%26%20Automation%20Engineer%20%7C%20Backend%20Architect%20%7C%20Laravel%20Craftsman&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-```
-██╗   ██╗███╗   ███╗███████╗███████╗██╗  ██╗    ██████╗ ██████╗  █████╗      ██╗ █████╗ ██████╗  █████╗ ████████╗██╗
-██║   ██║████╗ ████║██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║
-██║   ██║██╔████╔██║█████╗  ███████╗███████║    ██████╔╝██████╔╝███████║     ██║███████║██████╔╝███████║   ██║   ██║
-██║   ██║██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║    ██╔═══╝ ██╔══██╗██╔══██║██   ██║██╔══██║██╔═══╝ ██╔══██║   ██║   ██║
-╚██████╔╝██║ ╚═╝ ██║███████╗███████║██║  ██║    ██║     ██║  ██║██║  ██║╚█████╔╝██║  ██║██║     ██║  ██║   ██║   ██║
- ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝
-```
+<br/>
 
-<a href="https://imumesh.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF2D20&center=true&vCenter=true&width=820&lines=%24+I+don%27t+just+write+code.+I+write+code+that+survives+production.;%24+SaaS+%26+Automation+Engineer+%E2%80%A2+Laravel+%E2%80%A2+React+%E2%80%A2+Node.js;%24+Shipped+systems+used+by+65M%2B+users.;%24+Contest+engines+handling+100K%2B+entries+per+event.;%24+Currently+at+Divya+Bhaskar+%E2%80%94+India%27s+largest+print+media." alt="typing"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+SaaS+that+survives+production;⚡+65M%2B+users+served+via+DB+Corp+platforms;🔧+Turning+manual+chaos+into+clean+pipelines;💡+Laravel+%7C+PHP+8.2%2B+%7C+Node.js+%7C+React;🌐+Open+to+freelance+%26+collaboration)](https://imumesh.com)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umeshp1103-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeshp1103)
-[![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018c0d800165737c8c)
-[![Website](https://img.shields.io/badge/imumesh.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://imumesh.com)
-[![Email](https://img.shields.io/badge/itsumeshp113-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsumeshp113@gmail.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/itsumeshp?style=flat-square&label=Followers&color=FF2D20&labelColor=20232A)](https://github.com/itsumeshp)
-[![GitHub stars](https://img.shields.io/github/stars/itsumeshp?style=flat-square&label=Stars&color=FF2D20&labelColor=20232A)](https://github.com/itsumeshp)
-![Profile Views](https://komarev.com/ghpvc/?username=itsumeshp&style=flat-square&color=FF2D20&label=Views&labelColor=20232A)
-![Location](https://img.shields.io/badge/Ahmedabad-IN-FF2D20?style=flat-square&labelColor=20232A)
-![Rate](https://img.shields.io/badge/Rate-%2425%2Fhr-2ECC71?style=flat-square&labelColor=20232A)
+[![Upwork](https://img.shields.io/badge/Upwork-Rising%20Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imumesh.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://imumesh.com)
+[![Rate](https://img.shields.io/badge/Rate-%2425%2Fhr-F59E0B?style=for-the-badge&logo=bitcoin&logoColor=white)](https://imumesh.com/contact)
+[![Profile Views](https://komarev.com/ghpvc/?username=itsumeshp&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/itsumeshp)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🧑‍💻 whoami
 
-```
-> Umesh Prajapati — SaaS & Automation Engineer · Backend Architect · Ahmedabad, IN
-> 5+ years turning manual, disconnected workflows into clean, scalable systems.
-> If you're building a SaaS product or stuck with chaos, I make it boring on purpose.
-```
-
----
-
-## `$ cat about.php`
-
-```php
-<?php
-
-declare(strict_types=1);
-
-final class UmeshPrajapati extends Developer
-{
-    public string $location   = "Ahmedabad, Gujarat, IN";
-    public string $company    = "Bytes Technolab — onsite @ Divya Bhaskar (DB Corp Ltd)";
-    public string $title      = "SaaS & Automation Engineer";
-    public string $education  = "BEng Information Technology, 2017–2021";
-
-    /** @var array<string, string[]> */
-    public array $stack = [
-        "backend"   => ["Laravel", "PHP 8.2+", "Node.js", "Python", "GraphQL"],
-        "frontend"  => ["TypeScript", "React", "Next.js", "Vue.js", "Livewire", "Tailwind"],
-        "databases" => ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-        "infra"     => ["AWS (EC2, RDS, S3)", "Docker", "Nginx", "CI/CD"],
-        "payments"  => ["Stripe", "Tap Payment Gateway"],
-    ];
-
-    /** @var string[] */
-    public array $exploring = ["TanStack Table", "AG Grid", "React Query", "DevOps patterns"];
-
-    /** @var string[] */
-    public array $languages = ["English (Fluent)", "Gujarati (Native)", "Hindi (Native)"];
-
-    public function focus(): array
-    {
-        return [
-            "Multi-tenant SaaS — strict data isolation, modular from day one",
-            "Workflow automation — replace manual steps with clean pipelines",
-            "AI-powered integrations — coupon validation, behavioral insights",
-            "Microservices & API design — REST + GraphQL, real threat models",
-            "High-throughput backends — Redis, query tuning, async queues",
-        ];
-    }
-
-    public function philosophy(): string
-    {
-        return "Readable > Clever. Boring > Fragile. Production-ready > Demo-ready.";
-    }
-}
-```
-
----
-
-## `$ top` — Production Impact
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  METRIC                              RESULT                             │
-├─────────────────────────────────────────────────────────────────────────┤
-│  Users served                        65,000,000+ readers (DB Corp)      │
-│  Event throughput                    100,000+ entries / event           │
-│  Manual work eliminated              60%   (Lead Management SaaS)       │
-│  API latency reduction               40%   (Redis + query tuning)       │
-│  Deployment time cut                 50%   (AWS CI/CD pipelines)        │
-│  Multi-tenant uptime                 99.0%+ (zero security incidents)   │
-│  SaaS apps shipped end-to-end        6+    (wellness, sports, solar)    │
-│  Live payment platforms              3     (Stripe + Tap, full flow)    │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ ls -la ./selected-work`
+> **Umesh Prajapati** — SaaS & Automation Engineer · Backend Architect · Ahmedabad, IN  
+> 5+ years turning manual, disconnected workflows into clean, scalable systems.  
+> If you're building a SaaS product or stuck with chaos — I make it boring on purpose.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🚀 Lead Management SaaS
-**60% reduction in manual work**
-Full pipeline automation, multi-tenant RBAC, third-party CRM integrations.
-<sub>`Laravel` `Vue.js` `MySQL` `AWS`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 📰 MDM Platform — DB Corp Ltd
-**India's largest print media · 65M+ readers**
-Microservices-based master data system. Publishing, events, e-commerce, finance.
-<sub>`Laravel` `Microservices` `REST` `AWS`</sub>
-
-</td>
+<td>🏢 <strong>Company</strong></td>
+<td>Bytes Technolab (onsite @ <strong>DB Corp Ltd</strong> — Divya Bhaskar)</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🎟️ High-Traffic Contest Engine
-**100K+ entries / event · AI-validated**
-Coupon validation pipeline, cron-based draws, zero manual processing.
-<sub>`Laravel` `Redis` `AI` `Cron`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 [Mindsio — AI Mental Wellness](https://github.com/itsumeshp/Mindsio)
-**10K+ active users · multi-tenant**
-GraphQL API, mood tracking, AI behavioral insights, FCM notifications.
-<sub>`Laravel` `GraphQL` `AI` `AWS`</sub>
-
-</td>
+<td>📍 <strong>Location</strong></td>
+<td>Ahmedabad, Gujarat, India</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 💳 Stripe & Tap Integrations
-**3 live platforms · full transactional flow**
-Subscription billing, refunds, webhooks, multi-currency.
-<sub>`Stripe` `Tap` `Laravel` `Webhooks`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### ☀️ Solar Cost Calculator + Event Platforms
-**Multi-sector SaaS builds**
-Scalable estimator + event mgmt — solar, sports, lifestyle.
-<sub>`Laravel` `Vue.js` `MySQL`</sub>
-
-</td>
+<td>🎓 <strong>Education</strong></td>
+<td>B.Eng Information Technology, 2017–2021</td>
+</tr>
+<tr>
+<td>💬 <strong>Languages</strong></td>
+<td>English · Gujarati · Hindi</td>
+</tr>
+<tr>
+<td>💡 <strong>Philosophy</strong></td>
+<td><em>"Readable > Clever. Boring > Fragile. Production-ready > Demo-ready."</em></td>
 </tr>
 </table>
 
-### `$ ls ./open-source`
-
-| Project | What it does | Stack |
-|---|---|---|
-| ⚡ [laravel-11-starter](https://github.com/itsumeshp/laravel-11-starter) | Production boilerplate — RBAC, DataTables, Activity Log, Excel export | `Laravel 11` `Spatie` `Yajra` |
-| 💡 [laravel-tips](https://github.com/itsumeshp/laravel-tips) | Eloquent patterns from real production code — polymorphic, scopes | `PHP` `Eloquent` |
-| 🔌 [laravel-websockets](https://github.com/itsumeshp/laravel-websockets) | One-to-one chat — private channels, unread counters, auth | `Laravel` `Vue.js` `WS` |
-| 🍴 [HungryRoute](https://github.com/itsumeshp/HungryRoute) | Food delivery routing system | `PHP` `Laravel` |
-| 📝 [Blogging-system](https://github.com/itsumeshp/Blogging-system) | Full-featured blog platform | `JS` `Laravel` |
-| 🛠️ [dbadmin](https://github.com/itsumeshp/dbadmin) | Admin dashboard — TanStack, AG Grid, data-heavy patterns | `TypeScript` `React` |
-
 ---
 
-## `$ htop` — Skills & Proficiency
-
-```
-BACKEND
-  Laravel / PHP        ████████████████████  Expert       (5+ yrs · production)
-  Node.js              ███████████████░░░░░  Advanced     (APIs, automation)
-  Python               ███████████░░░░░░░░░  Intermediate (scripting, AI glue)
-  GraphQL              ███████████████░░░░░  Advanced     (Mindsio, 10K+ users)
-
-FRONTEND
-  Vue.js / Livewire    █████████████████░░░  Advanced     (paired with Laravel)
-  React / TypeScript   ██████████████░░░░░░  Intermediate (TanStack, AG Grid)
-  Next.js              ███████████░░░░░░░░░  Intermediate (portfolio, SSR)
-
-DATA
-  MySQL / Eloquent     ████████████████████  Expert       (multi-tenant, RBAC)
-  PostgreSQL           ██████████████░░░░░░  Intermediate
-  MongoDB              ████████████░░░░░░░░  Intermediate
-  Redis / Queues       █████████████████░░░  Advanced     (caching, async)
-
-INFRA & PAYMENTS
-  AWS (EC2/RDS/S3)     ████████████████░░░░  Advanced     (99%+ uptime)
-  Docker / Nginx       ██████████████░░░░░░  Intermediate
-  CI/CD                ███████████████░░░░░  Advanced     (50% deploy cut)
-  Stripe / Tap         █████████████████░░░  Advanced     (3 live platforms)
-```
-
----
-
-## `$ git log --oneline` — GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsumeshp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20" alt="stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itsumeshp&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="streak"/>
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsumeshp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D20&langs_count=8" alt="top-langs"/>
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=itsumeshp&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" alt="trophies"/>
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsumeshp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&area=true" width="100%" alt="activity"/>
+### Databases & Infra
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Payments
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Tap Payments](https://img.shields.io/badge/Tap%20Payments-00B5CC?style=for-the-badge&logoColor=white)
 
 </div>
 
-### `$ ./snake.sh` — Contribution Snake
+---
+
+## 📊 Production Impact
+
+<div align="center">
+
+| 🎯 Metric | 📈 Result |
+|-----------|-----------|
+| 👥 Users Served | **65,000,000+** readers (DB Corp) |
+| 🎟️ Event Throughput | **100,000+** entries / event |
+| ⚙️ Manual Work Eliminated | **60%** reduction (Lead Management SaaS) |
+| ⚡ API Latency Reduction | **40%** (Redis + query tuning) |
+| 🚀 Deployment Time Cut | **50%** (AWS CI/CD pipelines) |
+| 🔒 Multi-tenant Uptime | **99.0%+** (zero security incidents) |
+| 📦 SaaS Apps Shipped | **6+** (wellness, sports, solar) |
+| 💳 Live Payment Platforms | **3** (Stripe + Tap, full flow) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏢 **Lead Management SaaS** | 60% reduction in manual work · Full pipeline automation, multi-tenant RBAC, CRM integrations | `Laravel` `Vue.js` `MySQL` `AWS` |
+| 📰 **MDM Platform — DB Corp** | India's largest print media · 65M+ readers · Microservices-based master data system | `Laravel` `Microservices` `REST` `AWS` |
+| 🎟️ **High-Traffic Contest Engine** | 100K+ entries/event · AI-validated coupons · cron-based draws, zero manual processing | `Laravel` `Redis` `AI` `Cron` |
+| 🧠 **Mindsio — AI Mental Wellness** | 10K+ active users · GraphQL API, mood tracking, AI behavioral insights, FCM | `Laravel` `GraphQL` `AI` `AWS` |
+| 💳 **Stripe & Tap Integrations** | 3 live platforms · Subscription billing, refunds, webhooks, multi-currency | `Stripe` `Tap` `Laravel` `Webhooks` |
+| ☀️ **Solar Cost Calculator** | Multi-sector SaaS · Scalable estimator + event management | `Laravel` `Vue.js` `MySQL` |
+
+</div>
+
+---
+
+## 📦 Open Source
+
+<div align="center">
+
+| Repo | What it does | Stars |
+|------|-------------|-------|
+| ⚡ [**laravel-11-starter**](https://github.com/itsumeshp/laravel-11-starter) | Production boilerplate — RBAC, DataTables, Activity Log, Excel export | ![Stars](https://img.shields.io/github/stars/itsumeshp/laravel-11-starter?style=flat-square&color=yellow) |
+| 💡 [**laravel-tips**](https://github.com/itsumeshp/laravel-tips) | Eloquent patterns from real production code | ![Stars](https://img.shields.io/github/stars/itsumeshp/laravel-tips?style=flat-square&color=yellow) |
+| 🔌 [**laravel-websockets**](https://github.com/itsumeshp/laravel-websockets) | One-to-one chat — private channels, unread counters, auth | ![Stars](https://img.shields.io/github/stars/itsumeshp/laravel-websockets?style=flat-square&color=yellow) |
+| 🛠️ [**dbadmin**](https://github.com/itsumeshp/dbadmin) | Admin dashboard — TanStack, AG Grid, data-heavy patterns | ![Stars](https://img.shields.io/github/stars/itsumeshp/dbadmin?style=flat-square&color=yellow) |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsumeshp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsumeshp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsumeshp&theme=tokyonight&hide_border=true" width="500" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itsumeshp/itsumeshp/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## `$ history` — Work Timeline
+## 🕐 Work Timeline
 
 ```
-2024-08 ──┬── Software Engineer · Bytes Technolab Pvt. Ltd. (onsite @ DB Corp Ltd)
-          │   - 5+ enterprise modules: publishing, events, e-commerce, finance
-          │   - Contest engine: 100K+ entries/event with AI coupon validation
-          │   - Analytics dashboards consolidating 5+ platforms (-40% reporting)
-          │   - Shopify middleware: catalog sync, orders, inventory
-          │   - Multilingual CMS supporting 5+ Indian languages
-          │   - Real-time notifications via FCM + Microsoft Teams
-          │
+2024-08 ──┬── Software Engineer · Bytes Technolab (onsite @ DB Corp Ltd)
+          │   ├─ 5+ enterprise modules: publishing, events, e-commerce, finance
+          │   ├─ Contest engine: 100K+ entries/event with AI coupon validation
+          │   ├─ Analytics dashboards consolidating 5+ platforms (−40% reporting time)
+          │   ├─ Shopify middleware: catalog sync, orders, inventory
+          │   └─ Multilingual CMS supporting 5+ Indian languages
+
 2023-04 ──┼── Software Developer · WebMob Technologies
-          │   - 6+ multi-tenant SaaS apps: wellness, sports, solar, events
-          │   - Stripe + Tap Payments across 3 live platforms
-          │   - Real-time features via Laravel Echo + WebSockets
-          │   - Full lifecycle: requirements → AWS (EC2, RDS, S3, CI/CD)
-          │   - Improved API response times via indexing + caching
-          │
+          │   ├─ 6+ multi-tenant SaaS apps: wellness, sports, solar, events
+          │   ├─ Stripe + Tap Payments across 3 live platforms
+          │   ├─ Real-time features via Laravel Echo + WebSockets
+          │   └─ Full lifecycle: requirements → AWS (EC2, RDS, S3, CI/CD)
+
 2021-02 ──┴── PHP Developer · RainStream Technologies
-              - CRM + lead management SaaS from scratch (multi-tenant + RBAC)
-              - 99%+ uptime on AWS EC2/RDS multi-tenant infrastructure
-              - Strict data isolation via RBAC — zero security incidents
-              - Reduced legacy PHP debt via modular refactoring + API versioning
+              ├─ CRM + lead management SaaS from scratch (multi-tenant + RBAC)
+              ├─ 99%+ uptime on AWS EC2/RDS multi-tenant infrastructure
+              └─ Reduced legacy PHP debt via modular refactoring + API versioning
 ```
 
 ---
 
-## `$ ping me`
+## 📬 Let's Connect
 
-> Open to **freelance projects**, **collaborations**, and **interesting problems** that need a backend engineer who actually gives a damn about code quality.
+<div align="center">
+
+> 🔍 **Open to:** Freelance projects · Collaborations · Interesting backend problems
 
 ```bash
-$ curl -X POST https://imumesh.com/contact \
-       -H "Content-Type: application/json" \
-       -d '{
-             "subject": "Lets build something that survives production",
-             "stack":   ["Laravel", "Node.js", "React"],
-             "budget":  "$25/hr or fixed scope",
-             "timezone":"UTC+05:30 — IST"
-           }'
-
-# or DM on LinkedIn / Upwork like a normal human.
+curl -X POST https://imumesh.com/contact \
+  -H "Content-Type: application/json" \
+  -d '{
+    "subject": "Lets build something that survives production",
+    "stack": ["Laravel", "Node.js", "React"],
+    "budget": "$25/hr or fixed scope",
+    "timezone": "UTC+05:30 — IST"
+  }'
+# or just DM on LinkedIn / Upwork like a normal human 👇
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umeshp1103)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Website](https://img.shields.io/badge/Website-imumesh.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://imumesh.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   "Any fool can write code that a computer can understand.              │
-│    Good programmers write code that humans can understand."             │
-│                                                  — Martin Fowler        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+> *"Any fool can write code that a computer can understand.*  
+> *Good programmers write code that humans can understand."*  
+> **— Martin Fowler**
 
-**`[ Built with ☕, JetBrains Mono, and too many browser tabs ]`**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+*Built with ☕, JetBrains Mono, and too many browser tabs*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 
 </div>
